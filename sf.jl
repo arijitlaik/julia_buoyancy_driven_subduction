@@ -1,0 +1,6 @@
+using GeophysicalModelGenerator
+
+compute_phase
+
+
+compute_thermal_structure

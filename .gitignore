@@ -1,0 +1,10 @@
+mdb*.dat
+*.bin
+*.vtk
+*.vtr
+*.vtu
+*.vts
+*.pvtr
+*.pvd
+mdb*.dat
+r4/*
